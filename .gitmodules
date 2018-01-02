@@ -1,0 +1,3 @@
+[submodule "src/shared/shared"]
+	path = src/shared/shared
+	url = git@github.com:MarchyMarch/inventory-shared-modules.git
